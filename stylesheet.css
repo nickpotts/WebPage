@@ -29,6 +29,10 @@
 #title {
     display: inline-block;
     margin: 10px 0 0 20px;
+}
+
+#homelink {
+    text-decoration: none;
     color: darkgreen;
 }
 
@@ -64,7 +68,7 @@
     font-size: 70px;
     font-family: fantasy;
     text-align: center;
-    color: #AAFF33;
+    color: #00CC00;
 }
 
 #brochure {
